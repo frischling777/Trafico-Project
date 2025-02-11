@@ -1,6 +1,5 @@
 type AboutSectionProps = {
-    h2: string,
-
+    h2: string
 }
 
 export function AboutSection(props: AboutSectionProps) {
